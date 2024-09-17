@@ -22,4 +22,4 @@ function same(arr1, arr2) {
   }
   return true;
 }
-same([1, 2, 3, 2], [9, 1, 4, 4]);
+same([1,2,3,2], [9,1,4,4])
