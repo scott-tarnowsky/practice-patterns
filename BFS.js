@@ -10,7 +10,7 @@ Loop as long as there is anything in queue
     add it to queue
     -If there is a right property on dequeued node,
     add it to queue
-
+Return the variable that stores the values
 */
 
 class Node {
