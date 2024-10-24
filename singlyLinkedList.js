@@ -68,7 +68,7 @@ class SinglyLinkedList {
       this.head = null;
       this.tail = null;
     }
-    return;
+    return current;
   }
 }
 let list = new SinglyLinkedList();
